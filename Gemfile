@@ -16,7 +16,7 @@ gem 'pg', '>= 0.18', '< 2.0'
 #   PostgreSQL's full text search
 gem 'pg_search'
 # Use Puma as the app server
-gem 'puma', '~> 4.1'
+gem 'puma', '~> 4.3'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 # Use SCSS for stylesheets
